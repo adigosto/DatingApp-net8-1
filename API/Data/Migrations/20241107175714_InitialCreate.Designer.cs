@@ -13,7 +13,7 @@ namespace API.Data.Migrations
     [Migration("20241107175714_InitialCreate")]
     partial class InitialCreate
     {
-        /// <inheritdoc />
+        /// <inheritdoc/>
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
